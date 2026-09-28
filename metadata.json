@@ -1,0 +1,6 @@
+{
+  "name": "InVibe",
+  "description": "A modern social media platform with photo & video feeds, stories, reels, explore discovery, interactive comments, profile customization, and post creation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
